@@ -1,0 +1,44 @@
+main{
+    background-color: white;
+}
+.study-form {
+    background-color: var(--dutch-white);
+    padding: 2em;
+    border-radius: 1em;
+    max-width: 600px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .study-form label {
+    color: black;
+    font-weight: bold;
+  }
+  
+  .study-form input,
+  .study-form textarea {
+    padding: 0.7em;
+    border: 1px solid var(--tea-green);
+    border-radius: 0.5em;
+    font-family: inherit;
+    background-color: white;
+    resize: vertical;
+  }
+  
+  .study-form button {
+    padding: 0.8em 1.5em;
+    background-color: var(--giants-orange);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 0.5em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .study-form button:hover {
+    background-color: var(--vivid-emerald);
+  }

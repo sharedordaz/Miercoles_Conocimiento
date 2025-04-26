@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!--Requirement by BYU-->
+    <meta name="description" content="Wenesday Study Circle">
+    <meta name="author" content="Shared Ordaz">
+
+    <!--Facebook meta tags-->
+    <meta property="og:title" content="Wenesday Study Circle">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://sharedordaz.github.io/wdd231/individualProject/images/logo-book.webp">
+    <meta property="og:url" content="https://sharedordaz.github.io/wdd231/individualProject/index.html">
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+
+    <link rel="stylesheet" href="styles/base-large.css">
+    <link rel="stylesheet" href="styles/base-small.css">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <title>Document</title>
+</head>
+<body>
+
+
+    <header>
+    <div class="logo" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+        <img src="images/logo-book.webp" loading="lazy" alt="logo" width="100" height="40">
+        <div class="name">
+            <h2>Wenesday</h2>
+            <strong>Study Circle</strong>
+        </div>
+    <div class="hamburguer" onclick="toggleMenu()">☰</div>
+    </div>
+    <nav class="navbar" id="navbar">
+        <a href="index.html">Home</a>
+        <a href="join.html">Join Us</a>
+        <a href="blog.html">Blog</a>
+    </nav>
+
+
+    </header>
+    <div id="headerSpace">
+
+    </div>
+    <main>
+       <h2 id="username"><!--JS Content--></h2> 
+    </main>
+
+    <footer>
+        <div class="logo" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+            <img src="images/logo-book.webp" loading="lazy" alt="logo" width="100" height="40">
+            <div class="name">
+                <h2>Wenesday</h2>
+                <strong>Study Circle</strong>
+            </div>
+        </div>
+        <div class="social">
+            <a href="https://youtube.com/">Youtube<img src="images/social/youtube.webp" alt="Youtube Logo" loading="lazy"> </a>
+            <a href="https://instagram.com/">Instagram<img src="images/social/instagram.webp" alt="Youtube Logo" loading="lazy"> </a>
+            <a href="https://x.com/">X<img src="images/social/x.webp" alt="Youtube Logo" loading="lazy"> </a>
+            <a href="https://facebook.com/">Facebook<img src="images/social/facebook.webp" alt="Youtube Logo" loading="lazy"> </a>
+        </div>
+        
+    </footer>
+    <script src="scripts/menu.js" defer></script>
+    <script src="scripts/thankyou.js" defer></script>
+</body>
+</html>

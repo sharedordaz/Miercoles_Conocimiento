@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Requisito de BYU -->
+    <meta name="description" content="Círculo de Estudio del Miércoles">
+    <meta name="author" content="Shared Ordaz">
+
+    <!-- Metaetiquetas para Facebook -->
+    <meta property="og:title" content="Círculo de Estudio del Miércoles">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://sharedordaz.github.io/wdd231/individualProject/images/logo-book.webp">
+    <meta property="og:url" content="https://sharedordaz.github.io/wdd231/individualProject/index.html">
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+    <link rel="stylesheet" href="styles/base-large.css">
+    <link rel="stylesheet" href="styles/base-small.css">
+    <link rel="stylesheet" href="styles/our-values.css">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <title>Documento</title>
+</head>
+<body>
+
+    <header>
+    <div class="logo" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+        <img src="images/logo-book.webp" loading="lazy" alt="logo" width="100" height="40">
+        <div class="name">
+            <h2>Miércoles</h2>
+            <strong>Círculo de Estudio</strong>
+        </div>
+    <div class="hamburguer" onclick="toggleMenu()">☰</div>
+    </div>
+    <nav class="navbar" id="navbar">
+        <a href="index.html">Inicio</a>
+        <a href="join.html">Únete a Nosotros</a>
+        <a href="our_values.html">Nuestros Valores</a>
+    </nav>
+    </header>
+
+    <div id="headerSpace"></div>
+
+    <main>
+        <h1>Nuestros Valores:</h1>
+        <ul>
+            <li>Respetar a todos los participantes y sus opiniones.</li>
+            <li>Honrar las creencias de los diferentes miembros del grupo de estudio.</li>
+            <li>Mantener la reverencia y dignidad durante nuestras reuniones.</li>
+            <li>Ser inclusivos y amables con todos, sin importar su origen o creencias.</li>
+            <li>Fomentar las preguntas y la búsqueda honesta con un espíritu de humildad.</li>
+            <li>Evitar discusiones contenciosas; buscar construir unidad y amor.</li>
+            <li>Apoyarnos mutuamente en el aprendizaje de nuevos principios.</li>
+            <li>Respetar los temas sagrados y tratarlos con cuidado y reverencia.</li>
+            <li>Ser puntuales y estar preparados para participar de manera reflexiva.</li>
+            <li>Respetar las creencias de otras religiones y promover el entendimiento interreligioso.</li>
+        </ul>
+    </main>
+
+    <footer>
+        <div class="logo" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+            <img src="images/logo-book.webp" loading="lazy" alt="logo" width="100" height="40">
+            <div class="name">
+                <h2>Miércoles</h2>
+                <strong>Círculo de Estudio</strong>
+            </div>
+        </div>
+        <div class="social">
+            <a href="https://youtube.com/">YouTube<img src="images/social/youtube.webp" alt="Logo de YouTube" loading="lazy"> </a>
+            <a href="https://instagram.com/">Instagram<img src="images/social/instagram.webp" alt="Logo de Instagram" loading="lazy"> </a>
+            <a href="https://x.com/">X<img src="images/social/x.webp" alt="Logo de X" loading="lazy"> </a>
+            <a href="https://facebook.com/">Facebook<img src="images/social/facebook.webp" alt="Logo de Facebook" loading="lazy"> </a>
+        </div>
+    </footer>
+
+    <script src="scripts/menu.js" defer></script>
+</body>
+</html>

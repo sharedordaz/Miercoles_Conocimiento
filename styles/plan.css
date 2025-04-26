@@ -1,0 +1,25 @@
+body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f0f4f8;
+      color: #222;
+      margin: 2rem;
+      line-height: 1.6;
+    }
+h1, h2 {
+      font-family: 'Georgia', serif;
+      color: #1e3a8a;
+    }
+h1 {
+      border-bottom: 2px solid #1e3a8a;
+      padding-bottom: 0.3rem;
+    }
+section {
+      margin-bottom: 2rem;
+    }
+.color-box {
+      display: inline-block;
+      width: 50px;
+      height: 25px;
+      margin-left: 10px;
+      border: 1px solid #ccc;
+    }

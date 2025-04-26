@@ -1,0 +1,12 @@
+main ul{
+    list-style:none;
+}
+
+main ul li{
+    display:block;
+    padding:0.3em;
+}
+main ul li:hover {
+    background-color: var(--earth-yellow);
+  }
+  
