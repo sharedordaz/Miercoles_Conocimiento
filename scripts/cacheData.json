@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KqErMuQG4JY9BbexuqWPiHdzGOY",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "MX",
+  "pageInfo": {
+    "totalResults": 133,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vl47vM2xE5T1ykauJ7HMKqy7XG8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l-lP498cwNM"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-08T06:27:14Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "Como reconstruir tu historia familiar",
+        "description": "Rodolfo Derbez Lozada miércoles 22 de Mayo del 2024 Miércoles de conocimiento.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l-lP498cwNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l-lP498cwNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l-lP498cwNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-08T06:27:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rv-klx7b0yTOg5yOiJpd6DgZHEQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8bUQ-NjThZU"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-08T06:17:29Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "Todos estos son reinos part I",
+        "description": "Marco Antonio Magaña Miércoles 12 de Junio del 2024 Miércoles de conocimiento.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8bUQ-NjThZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8bUQ-NjThZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8bUQ-NjThZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-08T06:17:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OFILY6pRTTWpvRiBUV589sA_xek",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JSlP67Bp_ZU"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-08T05:46:45Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "También son reinos part II",
+        "description": "Marco Antonio Magaña Miércoles 19 de Junio del 2024 Miércoles de Conocimiento.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JSlP67Bp_ZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JSlP67Bp_ZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JSlP67Bp_ZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-08T05:46:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6TVicY0oF-beNfLPeXI1q5IrxgI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qyc9wmL43ok"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-08T05:02:27Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "Lugares Históricos Mormones en la tierra fría de los volcanes",
+        "description": "Moroni Spencer Hernández de Olarte Miércoles 3 de Julio del 2024 Miércoles de Conocimiento.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qyc9wmL43ok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qyc9wmL43ok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qyc9wmL43ok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-08T05:02:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0mr92KMRNuHc_HRJdJj2AvjkmV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3JCvTmyuAAc"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-08T14:33:45Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "La Historia de la Cabalá",
+        "description": "Miércoles 15 de Mayo del 2023 Marcos Vaisman Miercoles de Conocimiento.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3JCvTmyuAAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3JCvTmyuAAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3JCvTmyuAAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-08T14:33:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hRTZMU0Fxp8A6fPhsY5x0tS3VcY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xWndCfmd8uE"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-08T14:30:09Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "Como reconstruir tu historia familiar",
+        "description": "Miércoles 22 de mayo del 2024 Rodolfo Derbez Lozada Miércoles de Cocimiento.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xWndCfmd8uE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xWndCfmd8uE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xWndCfmd8uE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-08T14:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OB8oL5EmehoAilvH9qWnMv7DZCQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "emCkKl3k81A"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-08T13:47:32Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "Los medios de Comunicación como apoyo a un cambio social",
+        "description": "Miércoles de Conocimiento Miércoles 10 de Abril del 2024 Yatsil Lozano León.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/emCkKl3k81A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/emCkKl3k81A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/emCkKl3k81A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-08T13:47:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AX64-bBCx2iWpWOqquMl7NyyEt8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TfVByU7sIzo"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-20T14:31:06Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "&quot;Primer informe anual de la contraloría autónoma del agua de la cuenca de México, nodo norte&quot;",
+        "description": "Miércoles de Conocimiento 17 de Abril del 2024 Ricardo Ovando.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TfVByU7sIzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TfVByU7sIzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TfVByU7sIzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-20T14:31:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tMEiniYPrlqLe_FVfEqsSpn2cP0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iuymRcZpggg"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-11T12:49:14Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "Asociaciones Religiosas: Instrumento eficaz que contribuye a la paz",
+        "description": "Miércoles de Conocimiento 10 de Abril del 2024 Carlos Marx Barbosa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iuymRcZpggg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iuymRcZpggg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iuymRcZpggg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-11T12:49:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8VvY6vOk1DdemXMXZag03R9fdVg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wClQNlQIfwM"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-08T01:00:40Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "La simetría energía-masa",
+        "description": "Miércoles de Conocimiento 6 de septiembre del 2023 Isías Martínez Palma.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wClQNlQIfwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wClQNlQIfwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wClQNlQIfwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-08T01:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-A6LjWvIveWCklAAo1kGBFPnXeY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sqSFZ0cQwQA"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-08T00:58:32Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "El misterio de la felicidad",
+        "description": "Miércoles de Conocimiento 30 de Agosto Carlos Ruiz.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sqSFZ0cQwQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sqSFZ0cQwQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sqSFZ0cQwQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-08T00:58:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "odvSpL5EJJwRL1aty_Q1wUfpbM4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O4H7FnVVYrA"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-07T07:47:49Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "Plotino Constantino Rodhakanaty",
+        "description": "Miércoles de Conocimiento 13 de septiembre del 2023 Sergio Pagaza.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O4H7FnVVYrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O4H7FnVVYrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O4H7FnVVYrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-07T07:47:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L3z-ckaqsP_VOiyb7VPvmbZLDwo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qsLsFPqaVWs"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-07T04:11:19Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "Dr. Aureliano Urrutia y Belisario Domínguez Crónicas",
+        "description": "Miércoles de Conocimiento 18 de Octubre del 2023 Fernando Arce.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qsLsFPqaVWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qsLsFPqaVWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qsLsFPqaVWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-07T04:11:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lt2LY3zlUI-A3QC8waB9lA5uijQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G9ixNsZ66Hs"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-06T22:33:36Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "Conversatorio: Perspectiva mundial de la Conferencia General de la IJSUD",
+        "description": "Miércoles de Conocimiento 27 de Septiembre del 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G9ixNsZ66Hs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G9ixNsZ66Hs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G9ixNsZ66Hs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-06T22:33:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f-_id68EjwfU-K5e-7uVZh3k8rI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F2xZ6gQzKmw"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-06T04:26:14Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "Problemáticas y desafíos de las migraciones en América Latina",
+        "description": "Miercoles de Conocimiento 8 de noviembre del 2023 Samuel Morales.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F2xZ6gQzKmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F2xZ6gQzKmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F2xZ6gQzKmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-06T04:26:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8ScAkmPBMH3JvsZ5ADjX6gsMnlg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IiJZCWVYA8c"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-06T00:59:42Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "La fe mueve montañas prt II (búsqueda de personas desaparecidas)",
+        "description": "Miércoles de conocimiento 15 de Noviembre del 2023 Eje de Iglesias y espirituales.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IiJZCWVYA8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IiJZCWVYA8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IiJZCWVYA8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-06T00:59:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2gi17XNhZi6wbN3_3U0Os-Q7f9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M6WwXbjrYMg"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-06T00:47:21Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "La Fe mueve montañas prt I (búsqueda de personas desaparecidas)",
+        "description": "Miércoles de Conocimiento 15 de Noviembre del 2023 Eje de Iglesias y espiritualidades.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M6WwXbjrYMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M6WwXbjrYMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M6WwXbjrYMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-06T00:47:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yA9Qg1IjGs251z3w1RUvE2BgDfs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g6iQqJjjLNo"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-04T16:32:37Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "Salud Financiera un mandamiento",
+        "description": "Miércoles de Conocimiento 10 de Enero del 2024 Israel Sánchez.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g6iQqJjjLNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g6iQqJjjLNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g6iQqJjjLNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-04T16:32:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WGRn96a369U3uzuGObuXbK70XF4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zJ9PnVHMnKg"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-04T15:56:53Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "El tribunal de la Santa Inquisición y el Santo Oficio",
+        "description": "Miércoles de Conocimiento 4 de Abril del 2024 Ana Martínez Domínguez.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zJ9PnVHMnKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zJ9PnVHMnKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zJ9PnVHMnKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-04T15:56:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2bKfMmNUj4K6SOvqDvWMqFesioE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XpoTu16Vv90"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-03T04:39:24Z",
+        "channelId": "UCTxI_j925sA6rZheNsyuMow",
+        "title": "¿Como se puede impactar a favor de la justicia desde diversos espacios?",
+        "description": "Miércoles de Conocimiento 29 de Noviembre 2023 Mtra. Mónica Maccise Duayhe.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XpoTu16Vv90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XpoTu16Vv90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XpoTu16Vv90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Grupo de Estudio SUD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-03T04:39:24Z"
+      }
+    }
+  ]
+}
