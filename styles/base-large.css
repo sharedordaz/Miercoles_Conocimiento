@@ -32,6 +32,7 @@ p,button, li, a, strong, i, label{
 
 button{
     color:var(--dutch-white);
+    background-color:var(--vivid-emerald);
 }
 
 /*HEADING*/
